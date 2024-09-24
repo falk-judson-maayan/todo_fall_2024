@@ -1,6 +1,6 @@
 # todo_fall_2024
 
-A new Flutter project.
+Todo app for App Development in Flutter course at DIS Fall 2024
 
 ## Getting Started
 
